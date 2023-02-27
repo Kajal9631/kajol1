@@ -1,8 +1,7 @@
 # kajol1### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Kajol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kajol-bharti-987715266/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+
 [![Website Badge](https://img.shields.io/badge/StackOverflow-kajal-yellow)](https://stackoverflow.com/users/21216507/kajal-bharti)
 
 I'm
